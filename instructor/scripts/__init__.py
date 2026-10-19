@@ -1,0 +1,1 @@
+"""Reusable instructor data-generation helpers; imports never write tables."""

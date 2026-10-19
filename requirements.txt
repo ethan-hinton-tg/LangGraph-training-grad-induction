@@ -1,0 +1,9 @@
+# Candidate baseline: Databricks Runtime 16.4 LTS ML (Python 3.12).
+# Not Databricks-certified here. Complete the notebook pre-work before teaching.
+# Spark and Delta are supplied by Databricks Runtime; never pip-install pyspark here.
+langgraph==1.0.8
+langchain-core==1.2.7
+databricks-langchain==0.15.0
+databricks-mcp==0.9.2
+mcp==1.26.0
+mlflow==3.14.0
